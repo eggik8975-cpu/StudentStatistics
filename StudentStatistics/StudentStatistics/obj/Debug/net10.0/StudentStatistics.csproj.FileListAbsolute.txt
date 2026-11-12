@@ -1,0 +1,15 @@
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\bin\Debug\net10.0\StudentStatistics.exe
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\bin\Debug\net10.0\StudentStatistics.deps.json
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\bin\Debug\net10.0\StudentStatistics.runtimeconfig.json
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\bin\Debug\net10.0\StudentStatistics.dll
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\bin\Debug\net10.0\StudentStatistics.pdb
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\StudentStatistics.GeneratedMSBuildEditorConfig.editorconfig
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\StudentStatistics.AssemblyInfoInputs.cache
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\StudentStatistics.AssemblyInfo.cs
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\StudentStatistics.csproj.CoreCompileInputs.cache
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\StudentStatistics.dll
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\refint\StudentStatistics.dll
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\StudentStatistics.pdb
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\StudentStatistics.genruntimeconfig.cache
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\ref\StudentStatistics.dll
+D:\дз\не заходить!!!!\StudentStatistics\StudentStatistics\obj\Debug\net10.0\StudentS.F0AF2E4E.Up2Date
